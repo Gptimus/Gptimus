@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.guerth.me/](https://www.guerth.me/)
 
-- 💬 Ask me about **React, React Native, Laravel,PHP, Node,..**
+- 💬 Ask me about **React, React Native, Laravel, PHP, NodeJs,..**
 
-- 📫 How to reach me **guerth@digital-drc.com**
+- 📫 How to reach me **guerth@digitaledge-drc.com**
 
 - 📄 Know about my experiences [https://cvdesignr.com/p/649423f569694?hl=fr_FR](https://cvdesignr.com/p/649423f569694?hl=fr_FR)
 
