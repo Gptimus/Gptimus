@@ -1,6 +1,6 @@
 [![MasterHead](https://www.paragyte.com/img/React_Banner.png)](https://www.guerth.me)
 <h1 align="center">Hi 👋, I'm Guerth</h1>
-<h3 align="center">An 8-year experienced full-stack developer.</h3>
+<h3 align="center">Versatile full-stack developer with 8 years of experience in web and mobile app design.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 
 <p align="left"> <a href="https://twitter.com/guerthmanzala" target="_blank"><img src="https://img.shields.io/twitter/follow/guerthmanzala?logo=twitter&style=for-the-badge" alt="guerthmanzala" /></a> </p>
