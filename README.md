@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://cvdesignr.com/p/649423f569694?hl=fr_FR](https://cvdesignr.com/p/649423f569694?hl=fr_FR)
 
-- ⚡ Fun fact **I once wrote a program so efficient that it solved a complex problem before I could finish my cup of coffee. ☕️**
+- ⚡ Fun fact **I have more lines of code than cups of coffee in a day. My code fuels both my projects and my caffeine addiction. ☕️💻 #CodeAndCoffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
