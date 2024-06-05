@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, React Native, Laravel, PHP, NodeJs,..**
 
-- 📫 How to reach me **guerth@digitaledge-drc.com**
+- 📫 How to reach me **contact@guerth.me**
 
 - 📄 Know about my experiences [https://cvdesignr.com/p/649423f569694?hl=fr_FR](https://cvdesignr.com/p/649423f569694?hl=fr_FR)
 
