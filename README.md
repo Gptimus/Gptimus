@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **contact@guerth.me**
 
-- 📄 Know about my experiences [https://cvdesignr.com/p/649423f569694?hl=fr_FR](https://cvdesignr.com/p/649423f569694?hl=fr_FR)
+- 📄 Know about my experiences [https://guerth.vercel.app/Guerth_Manzala_CV.pdf](https://guerth.vercel.app/Guerth_Manzala_CV.pdf)
 
 - ⚡ Fun fact **I have more lines of code than cups of coffee in a day. My code fuels both my projects and my caffeine addiction. ☕️💻 #CodeAndCoffee**
 
