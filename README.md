@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, React Native, Laravel, PHP, NodeJs,..**
 
-- 📫 How to reach me **contact@guerth.me**
+- 📫 How to reach me **guerthmanzala@gmail.com**
 
 - 📄 Know about my experiences [https://guerth.vercel.app/Guerth_Manzala_CV.pdf](https://guerth.vercel.app/Guerth_Manzala_CV.pdf)
 
