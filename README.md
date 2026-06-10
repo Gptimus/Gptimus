@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Figma, Hono, Svelte, Bun**
 
-- 👨‍💻 All of my projects are available at [https://guerth-manzala.vercel.app/](https://guerth-manzala.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://guerth.vercel.app/](https://guerth.vercel.app/)
 
 - 💬 Ask me about **React, React Native, Laravel, PHP, NodeJs,..**
 
